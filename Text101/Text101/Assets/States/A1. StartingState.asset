@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2d3a2fbb0ee1f046a6d65d28e5b4424, type: 3}
+  m_Name: A1. StartingState
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA acordou. \xC9 uma manha ensolarada de c\xE9u azul. P\xE1ssaros
+    cantando.\r\n\r\nVoc\xEA caminha lentamente at\xE9 o banheiro. No meio do caminho
+    se depara com um Doguinho dourado com a barriguinha pra cima.\r\n\r\n1 - Ignora
+    e continua sua caminhada ate o banheiro. Sua bexiga esta explodindo.\r\n2 - Se
+    abaixa para comprimentar o doguinho. Sua bexiga pode esperar, nao se ignora uma
+    barriguinha."
+  nextStates:
+  - {fileID: 11400000, guid: ac5b30b1eadaadc48b6be0639866df93, type: 2}
+  - {fileID: 11400000, guid: 3fafde6aadd9047469fa78cbed29c259, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2d3a2fbb0ee1f046a6d65d28e5b4424, type: 3}
+  m_Name: A6. Lavando as maos
+  m_EditorClassIdentifier: 
+  storyText: "M\xE3os lavadas. Cheirosas e secas.\r\n\r\nO Dog continua l\xE1 n\xE3o
+    mais balan\xE7ando o rabo. Apenas sentado te encarando.\r\n\r\n1. OK, se \xE9
+    carinho que ele quer \xE9 carinho que ele vai ter!\r\n2. Vou voltar pra cama e
+    dormir mais um pouco, fuck the Dog."
+  nextStates:
+  - {fileID: 11400000, guid: 294736662b766a14290fce6a29d6f8a9, type: 2}
+  - {fileID: 11400000, guid: 401196e5f9a836240ad5140ec046c677, type: 2}
